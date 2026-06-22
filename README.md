@@ -44,7 +44,10 @@ A selection of tools I've built and shipped publicly:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sshnox-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sshnox)
 [![GitHub](https://img.shields.io/badge/GitHub-sshnox-181717?style=flat&logo=github&logoColor=white)](https://github.com/sshnox)
-
+[![YouTube](https://img.shields.io/badge/YouTube-sshnox-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@sshnox)
+[![Instagram](https://img.shields.io/badge/Instagram-sshnox-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sshnox)
+[![X](https://img.shields.io/badge/X-sshnox-000000?style=flat&logo=x&logoColor=white)](https://x.com/sshnox)
+[![Facebook](https://img.shields.io/badge/Facebook-sshnox-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/sshnox)
 ---
 
 *Always open to interesting projects. Reach out on [LinkedIn](https://linkedin.com/in/sshnox).*
