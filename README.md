@@ -2,7 +2,7 @@
 
 **Business Developer · AI-First Agency Founder · Open Source Builder**
 
-Based in Lahore, Pakistan. I build open source tools, run cold outreach infrastructure, and lead [Riffonix Technologies](https://github.com/Riffonix) — an AI-first agency focused on automation, growth engineering, and AI-powered workflows.
+Based in Lahore, Pakistan. I build open source tools, run cold outreach infrastructure, and lead [Riffonix](https://github.com/Riffonix) — an AI-first agency focused on automation, growth engineering, and AI-powered workflows.
 
 ---
 
