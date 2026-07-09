@@ -8,12 +8,9 @@ Based in Lahore, Pakistan. I build open source tools, run cold outreach infrastr
 
 ### What I work with
 
-- **Cold Email & Outreach:** Instantly, Smartlead, Saleshandy · DNS/SPF/DKIM/DMARC setup · Campaign management
 - **AI & Automation:** Workflow automation · AI-powered tools · Lead generation systems
 - **Frontend:** Vanilla JS · HTML/CSS · Browser extensions (Chrome)
 - **Data:** Python · PostgreSQL · CSV processing and data pipelines
-- **Platforms:** Upwork (Top Rated) · LinkedIn · GitHub
-
 ---
 
 ### Open source projects
@@ -33,11 +30,9 @@ A selection of tools I've built and shipped publicly:
 
 ### Currently
 
-- Building **[Riffonix Technologies](https://github.com/Riffonix)** — AI-first agency (incorporated April 2026)
+- Building **[Riffonix](https://github.com/Riffonix)** — AI-first agency
 - Running cold outreach infrastructure for clients via Instantly/Smartlead
 - Completing a **30-day open source build challenge** — one tool shipped per day
-- Re-enrolled in **BS Data Science** at Virtual University of Pakistan
-
 ---
 
 ### Connect
