@@ -41,44 +41,44 @@ I'm currently studying **Data Science** while building projects across the web, 
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Claude Usage Tracker
-A browser extension for viewing Claude usage information directly while working with Claude.
+### 🔐 Signal-style E2E Chat
+A working end-to-end encrypted messenger built around the official `@signalapp/libsignal-client`, with X3DH/PQXDH session setup, Double Ratchet messaging, safety numbers, and an intentionally dumb relay.
 
-**Focus:** Browser Extensions · JavaScript · Productivity
+**Focus:** Cryptography · Node.js · WebSockets · Security
 
-[View repository →](https://github.com/sshnox/Claude-Usage-Tracker-v2.1.0)
+[View repository →](https://github.com/sshnox/Signal-e2e-chat)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ CLI Git Workflow Automator
-A developer utility focused on making common Git workflows faster and easier from the command line.
+### 🧩 Claude Usage Tracker
+A Chrome extension that surfaces Claude usage limits directly inside the chat experience, with configurable refresh and warning thresholds and no third-party telemetry.
 
-**Focus:** CLI · Git · Developer Experience
+**Focus:** Browser Extensions · JavaScript · AI Tools
 
-[View repository →](https://github.com/sshnox/CLI-git-workflow-automator)
+[View repository →](https://github.com/sshnox/Claude-Usage-Tracker-v2.1.0)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Real-Time Collaborative Markdown Editor
-A collaborative editing experiment focused on real-time writing and Markdown workflows.
+### 🧹 Company Name Cleaner
+A client-side tool that turns messy company names from lead lists and CRM exports into cleaner names ready for personalization and outreach.
 
-**Focus:** Web · Collaboration · Markdown
+**Focus:** Data Cleaning · Lead Gen · JavaScript
 
-[View repository →](https://github.com/sshnox/Real-time-collaborative-markdown-editor)
+[View repository →](https://github.com/sshnox/company-name-cleaner)
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Post Engagement Exporter
-A data-oriented tool for turning social engagement data into a more usable workflow.
+### ⚙️ CLI Git Workflow Automator
+A developer utility that streamlines common Git workflows from the command line, including branch cleanup, rebase helpers, and PR-ready commit flows.
 
-**Focus:** Data · Automation · Social Tools
+**Focus:** Go · CLI · Git · Developer Experience
 
-[View repository →](https://github.com/sshnox/post-engagement-exporter)
+[View repository →](https://github.com/sshnox/CLI-git-workflow-automator)
 
 </td>
 </tr>
@@ -99,18 +99,27 @@ A data-oriented tool for turning social engagement data into a more usable workf
 
 ## 🧠 Tech I'm Exploring
 
-<div align="center">
-
+**Build & Data**
+  
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=white)
 
-</div>
+**AI & Automation**
+
+![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
+
+**Data & Growth**
+
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-111827?style=for-the-badge)
+![CRM Workflows](https://img.shields.io/badge/CRM%20Workflows-111827?style=for-the-badge)
+![Lead Automation](https://img.shields.io/badge/Lead%20Automation-111827?style=for-the-badge)
+
 
 ---
 
