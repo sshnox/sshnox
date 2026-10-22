@@ -1,172 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=210&section=header&text=Shoaib%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Growth%20Lead&descAlignY=58&descSize=19&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" alt="Shoaib Shah profile hero" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=94A3B8&center=true&vCenter=true&width=850&lines=Build+%E2%86%92+Learn+%E2%86%92+Contribute+%E2%86%92+Repeat.;Data+%C3%97+AI+%C3%97+Automation+%C3%97+Growth;Building+useful+things+and+learning+in+public.)](https://github.com/sshnox)
+<br />
 
-<br/>
+<a href="https://github.com/sshnox?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1020?style=for-the-badge&labelColor=0B1020&color=22D3EE" alt="Projects" /></a>
+<a href="https://shoaibshah.com"><img src="https://img.shields.io/badge/WEBSITE-0B1020?style=for-the-badge&labelColor=0B1020&color=818CF8" alt="Website" /></a>
+<a href="https://linkedin.com/in/sshnox"><img src="https://img.shields.io/badge/CONNECT-0B1020?style=for-the-badge&labelColor=0B1020&color=F472B6" alt="Connect" /></a>
 
-**Builder · Open Source Contributor · Growth Lead · Data & AI · Tech Learner**
+</div>
+
+<br />
+
+<div align="center">
+
+`01 / PROFILE` &nbsp;&nbsp; `02 / SELECTED WORK` &nbsp;&nbsp; `03 / CURRENT FOCUS` &nbsp;&nbsp; `04 / TOOLKIT` &nbsp;&nbsp; `05 / CONNECT`
 
 </div>
 
 ---
 
-## 👋 About Me
+## 01 / Profile
 
-I'm **Shoaib Shah** — a builder and growth-minded tech learner exploring the intersection of **data, AI, automation, software, and growth**.
+I’m **Shoaib Shah** — a data science student and growth-minded builder working at the intersection of **software, data, AI, automation, and open source**.
 
-I like learning by making things: turning ideas into working tools, experimenting with new technologies, contributing to open source, and sharing what I learn along the way.
+My default mode is simple: find a useful problem, build a clear solution, learn from the edges, and ship the next version.
 
-I'm currently studying **Data Science** while building projects across the web, data, AI, automation, and developer tooling.
+<div align="center">
 
-> **I don't want to just learn technology — I want to build with it.**
+### Build useful things. Learn in public. Keep iterating.
 
----
-
-## 🛠️ What I Build
-
-- 🤖 **AI & Automation** — practical AI tools, workflows, and experiments
-- 📊 **Data** — data processing, enrichment, analysis, and pipelines
-- 🌐 **Web Tools** — lightweight apps, utilities, dashboards, and browser-based tools
-- ⚡ **Developer Tools** — small tools that remove friction from everyday workflows
-- 📈 **Growth Systems** — data-driven workflows connecting technology, users, and growth
-- 🌱 **Open Source** — building publicly, contributing, and learning from the community
-
----
-
-## 🚀 Selected Builds
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🔐 Signal-style E2E Chat
-A working end-to-end encrypted messenger built around the official `@signalapp/libsignal-client`, with X3DH/PQXDH session setup, Double Ratchet messaging, safety numbers, and an intentionally dumb relay.
-
-**Focus:** Cryptography · Node.js · WebSockets · Security
-
-[View repository →](https://github.com/sshnox/Signal-e2e-chat)
+**BUILD**<br />
+Small software with a real use case.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧩 Claude Usage Tracker
-A Chrome extension that surfaces Claude usage limits directly inside the chat experience, with configurable refresh and warning thresholds and no third-party telemetry.
-
-**Focus:** Browser Extensions · JavaScript · AI Tools
-
-[View repository →](https://github.com/sshnox/Claude-Usage-Tracker-v2.1.0)
+**LEARN**<br />
+Data, AI, systems, and security.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧹 Company Name Cleaner
-A client-side tool that turns messy company names from lead lists and CRM exports into cleaner names ready for personalization and outreach.
-
-**Focus:** Data Cleaning · Lead Gen · JavaScript
-
-[View repository →](https://github.com/sshnox/company-name-cleaner)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ CLI Git Workflow Automator
-A developer utility that streamlines common Git workflows from the command line, including branch cleanup, rebase helpers, and PR-ready commit flows.
-
-**Focus:** Go · CLI · Git · Developer Experience
-
-[View repository →](https://github.com/sshnox/CLI-git-workflow-automator)
+**SHARE**<br />
+Open source, experiments, and lessons.
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌱 Currently
-
-- 🎓 Studying **Data Science**
-- 🛠️ Building and shipping small software projects
-- 🤖 Exploring **AI, LLMs, and automation**
-- 🌐 Growing my **open-source footprint**
-- 📈 Exploring the intersection of **technology × growth**
-- 🐧 Learning and experimenting across **Linux and developer tooling**
-
----
-
-## 🧠 Tech I'm Exploring
-
-**Build & Data**
-  
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-
-**AI & Automation**
-
-![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
-
-**Data & Growth**
-
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-111827?style=for-the-badge)
-![CRM Workflows](https://img.shields.io/badge/CRM%20Workflows-111827?style=for-the-badge)
-![Lead Automation](https://img.shields.io/badge/Lead%20Automation-111827?style=for-the-badge)
-
-
----
-
-## 📊 GitHub Activity
+## 02 / Selected work
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sshnox&theme=github-compact&hide_border=true&area=true" width="96%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### `SECURITY / MESSAGING`
 
-<img src="https://github-readme-stats.vercel.app/api?username=sshnox&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnox&layout=compact&hide_border=true&langs_count=8" height="170"/>
+## [Signal E2E Chat](https://github.com/sshnox/Signal-e2e-chat)
+
+An end-to-end encrypted messaging project exploring secure session setup, ratcheting, safety numbers, and relay design.
+
+`Cryptography` · `Node.js` · `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+### `BROWSER / AI TOOLS`
+
+## [Claude Usage Tracker](https://github.com/sshnox/Claude-Usage-Tracker-v2.1.0)
+
+A Chrome extension that shows Claude usage limits inside the chat experience without API keys or third-party telemetry.
+
+`Chrome Extension` · `JavaScript` · `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `PRIVACY / IMAGES`
+
+## [Excise](https://github.com/sshnox/excise)
+
+A privacy-focused image metadata remover for C2PA, EXIF, and XMP data.
+
+`Privacy` · `Images` · `Metadata`
+
+</td>
+<td width="50%" valign="top">
+
+### `DATA / WORKFLOWS`
+
+## [Company Name Cleaner](https://github.com/sshnox/company-name-cleaner)
+
+A client-side utility for turning messy company names into cleaner names for CRM and outreach workflows.
+
+`Data Cleaning` · `JavaScript` · `Lead Ops`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `DATA / EXPORT`
+
+## [Post Engagement Exporter](https://github.com/sshnox/post-engagement-exporter)
+
+A tool for turning social post engagement data into a more useful format for analysis and follow-up.
+
+`Export` · `Automation` · `Data`
+
+</td>
+<td width="50%" valign="top">
+
+### `AI / KNOWLEDGE`
+
+## [Awesome LLM Apps](https://github.com/sshnox/awesome-llm-apps)
+
+A curated collection of runnable AI agent and RAG applications to explore, customize, and ship.
+
+`LLMs` · `RAG` · `Agents`
+
+</td>
+</tr>
+</table>
+
+[**Browse every public repository →**](https://github.com/sshnox?tab=repositories)
 
 </div>
 
----
-
-## 🤝 Open Source
-
-I believe the fastest way to grow as a technologist is to **build in public, contribute to shared work, and learn from other builders**.
-
-I'm especially interested in contributing to projects around:
-
-AI · Data · Automation · Developer Tools · Productivity · Open Source
-
-If you're building something interesting, I'm always open to exploring it.
-
----
-
-## 🔗 Connect
+## 03 / Current focus
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sshnox-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sshnox)
-[![YouTube](https://img.shields.io/badge/YouTube-sshnox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sshnox)
-[![Instagram](https://img.shields.io/badge/Instagram-sshnox-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sshnox)
-[![X](https://img.shields.io/badge/X-sshnox-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sshnox)
-[![Facebook](https://img.shields.io/badge/Facebook-sshnox-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sshnox)
-[![GitHub](https://img.shields.io/badge/GitHub-sshnox-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshnox)
+<img src="./assets/terminal.svg" alt="Terminal panel showing Shoaib's current focus areas" width="92%" />
 
 </div>
 
----
+## 04 / Toolkit
+
+### Languages, systems & workflow
 
 <div align="center">
 
-**Build → Learn → Contribute → Repeat.**
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FDE047" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=86EFAC" alt="Node.js" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=93C5FD" alt="SQL" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FCA5A5" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=E2E8F0" alt="Linux" />
+<img src="https://img.shields.io/badge/Linux%20Mint-111827?style=for-the-badge&logo=linuxmint&logoColor=A3E635" alt="Linux Mint" />
+<img src="https://img.shields.io/badge/Cinnamon%20Desktop-111827?style=for-the-badge&logo=linuxmint&logoColor=A3E635" alt="Cinnamon desktop" />
+<img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=F97316" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Debian-111827?style=for-the-badge&logo=debian&logoColor=FCA5A5" alt="Debian" />
+
+</div>
+
+### AI, coding & agent workspace
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=F59E0B" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=F59E0B" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Claude%20Desktop-111827?style=for-the-badge&logo=anthropic&logoColor=F59E0B" alt="Claude Desktop" />
+<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=34D399" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Codex%20CLI-111827?style=for-the-badge&logo=openai&logoColor=34D399" alt="Codex CLI" />
+<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google&logoColor=60A5FA" alt="Gemini" />
+<img src="https://img.shields.io/badge/AI%20Studio-111827?style=for-the-badge&logo=google&logoColor=FACC15" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=rocket&logoColor=F472B6" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Manus-111827?style=for-the-badge&logo=sparkles&logoColor=A78BFA" alt="Manus" />
+
+</div>
+
+<div align="center">
+
+`AI & LLMs` &nbsp; `Agent Workflows` &nbsp; `Automation` &nbsp; `Data Pipelines` &nbsp; `Browser Tools` &nbsp; `Developer Experience`
+
+</div>
+
+## 05 / Connect
+
+If you’re building something thoughtful around **AI, data, automation, developer tools, or open source**, I’d be happy to hear about it.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sshnox"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@sshnox"><img src="https://img.shields.io/badge/YouTube-0B1020?style=for-the-badge&logo=youtube&logoColor=FCA5A5" alt="YouTube" /></a>
+<a href="https://x.com/sshnox"><img src="https://img.shields.io/badge/X-0B1020?style=for-the-badge&logo=x&logoColor=E2E8F0" alt="X" /></a>
+<a href="https://github.com/sshnox"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub" /></a>
+
+<br /><br />
+
+<sub>Build → Learn → Contribute → Repeat.</sub>
 
 </div>

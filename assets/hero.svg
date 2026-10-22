@@ -1,0 +1,42 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Shoaib Shah — Build, learn, contribute</title>
+<desc id="desc">A restrained hand-drawn editorial banner on a warm paper background with an ink desk illustration and a small coral accent.</desc>
+<defs>
+  <pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r="0.8" fill="#1E293B" opacity="0.055"/><circle cx="17" cy="15" r="0.55" fill="#1E293B" opacity="0.045"/></pattern>
+  <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="7" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="1.4"/></filter>
+</defs>
+<rect width="1400" height="430" rx="22" fill="#F5F1E8"/>
+<rect width="1400" height="430" rx="22" fill="url(#paper)"/>
+<!-- loose editorial frame -->
+<path d="M38 40C270 32 520 48 700 38C930 26 1134 47 1362 37" stroke="#1E293B" stroke-width="2" opacity="0.7" filter="url(#rough)"/>
+<path d="M42 394C290 401 470 386 698 397C950 407 1148 385 1357 395" stroke="#1E293B" stroke-width="2" opacity="0.6" filter="url(#rough)"/>
+<path d="M44 48C34 160 52 278 42 384" stroke="#1E293B" stroke-width="1.7" opacity="0.55" filter="url(#rough)"/>
+<path d="M1358 46C1368 170 1348 280 1360 386" stroke="#1E293B" stroke-width="1.7" opacity="0.55" filter="url(#rough)"/>
+<!-- left copy -->
+<text x="100" y="103" fill="#64748B" font-family="monospace" font-size="14" letter-spacing="3">PROFILE NOTE / 01</text>
+<text x="96" y="190" fill="#111827" font-family="Georgia,Times New Roman,serif" font-size="67" font-weight="700">Shoaib Shah</text>
+<path d="M99 208C240 216 362 199 498 209" stroke="#F06B55" stroke-width="5" stroke-linecap="round" opacity="0.85" filter="url(#rough)"/>
+<text x="101" y="249" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Builder of useful software, curious systems,</text>
+<text x="101" y="278" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">and things worth learning in public.</text>
+<text x="101" y="339" fill="#64748B" font-family="monospace" font-size="14">DATA  /  AI  /  AUTOMATION  /  OPEN SOURCE</text>
+<!-- right hand-drawn desk / monitor -->
+<g stroke="#1E293B" stroke-linecap="round" stroke-linejoin="round" filter="url(#rough)">
+  <path d="M785 115C864 108 1030 110 1118 117L1114 275C1017 282 879 279 786 273L785 115Z" stroke-width="3" fill="#FBFAF7"/>
+  <path d="M809 140C883 134 1013 137 1092 143L1090 245C1005 251 895 248 809 243L809 140Z" stroke-width="2" opacity="0.7"/>
+  <path d="M933 276L929 314" stroke-width="3"/><path d="M878 318C919 311 1000 311 1046 319" stroke-width="3"/>
+  <path d="M750 337C864 329 1053 331 1165 340" stroke-width="3"/>
+  <path d="M767 339L736 367M1148 341L1178 368" stroke-width="3"/>
+  <path d="M846 176C864 164 879 163 893 176C908 190 924 178 939 166C955 153 969 182 987 176C1005 169 1019 152 1037 167C1053 181 1064 169 1081 160" stroke-width="2.2"/>
+  <path d="M846 201C886 194 905 204 941 198C982 192 1017 205 1080 197" stroke-width="2.2"/>
+  <path d="M846 226C866 218 890 231 914 224C938 218 966 232 989 224C1013 217 1044 231 1080 222" stroke-width="2.2"/>
+</g>
+<!-- coral annotation marks -->
+<path d="M1188 112C1217 104 1250 107 1270 120" stroke="#F06B55" stroke-width="4" stroke-linecap="round" filter="url(#rough)"/>
+<path d="M1200 128C1222 122 1244 123 1261 131" stroke="#F06B55" stroke-width="2.5" stroke-linecap="round" filter="url(#rough)"/>
+<text x="1183" y="173" fill="#F06B55" font-family="cursive" font-size="19" transform="rotate(-5 1183 173)">make useful things</text>
+<path d="M1190 183C1236 191 1273 184 1304 180" stroke="#F06B55" stroke-width="2" stroke-linecap="round"/>
+<!-- small hand-drawn arrows -->
+<path d="M658 144C622 123 594 125 574 143M574 143L583 125M574 143L594 146" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M636 305C603 326 577 327 552 312M552 312L559 330M552 312L571 308" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="571" y="113" fill="#64748B" font-family="cursive" font-size="16" transform="rotate(-7 571 113)">keep iterating</text>
+</svg>

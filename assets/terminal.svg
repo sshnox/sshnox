@@ -1,0 +1,13 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Shoaib Shah current focus terminal</title>
+<desc id="desc">A dark terminal card listing current focus areas: data science, AI agents, automation, privacy, and developer tools.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#17112C"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="900" y2="0"><stop stop-color="#2DD4BF"/><stop offset="0.48" stop-color="#818CF8"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="258" rx="20" fill="url(#bg)" stroke="#334155" stroke-opacity="0.8"/>
+<path d="M20 55H880" stroke="#334155"/><circle cx="30" cy="28" r="6" fill="#FB7185"/><circle cx="52" cy="28" r="6" fill="#FBBF24"/><circle cx="74" cy="28" r="6" fill="#34D399"/><text x="112" y="33" fill="#64748B" font-family="monospace" font-size="12">focus.sh</text>
+<text x="34" y="94" fill="#5EEAD4" font-family="monospace" font-size="15">$ ./focus.sh --today</text>
+<text x="34" y="127" fill="#F8FAFC" font-family="monospace" font-size="15">01</text><text x="76" y="127" fill="#CBD5E1" font-family="monospace" font-size="15">study data science</text>
+<text x="34" y="157" fill="#A78BFA" font-family="monospace" font-size="15">02</text><text x="76" y="157" fill="#CBD5E1" font-family="monospace" font-size="15">explore AI agents + automation</text>
+<text x="34" y="187" fill="#F0ABFC" font-family="monospace" font-size="15">03</text><text x="76" y="187" fill="#CBD5E1" font-family="monospace" font-size="15">ship useful developer tools</text>
+<text x="34" y="217" fill="#67E8F9" font-family="monospace" font-size="15">04</text><text x="76" y="217" fill="#CBD5E1" font-family="monospace" font-size="15">learn privacy + reliable systems</text>
+<path d="M28 246H872" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
+</svg>
