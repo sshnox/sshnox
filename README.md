@@ -14,7 +14,7 @@
 
 <div align="center">
 
-`01 / PROFILE` &nbsp;&nbsp; `02 / SELECTED WORK` &nbsp;&nbsp; `03 / CURRENT FOCUS` &nbsp;&nbsp; `04 / TOOLKIT` &nbsp;&nbsp; `05 / CONNECT`
+`01 / PROFILE` &nbsp;&nbsp; `02 / PROJECTS` &nbsp;&nbsp; `03 / CURRENT FOCUS` &nbsp;&nbsp; `04 / TOOLKIT` &nbsp;&nbsp; `05 / CONNECT`
 
 </div>
 
@@ -64,7 +64,7 @@ Open source, experiments, and lessons.
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144k | AI agents · knowledge graphs | [Preserve full source text when expanding graph nodes](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1282) |
 | [wmentor/go-magnetar](https://github.com/wmentor/go-magnetar) | 27 | Go · agent tooling | [List enabled agents when `/agent` is called without arguments](https://github.com/wmentor/go-magnetar/pull/283) |
 
-## 02 / Selected work
+## 02 / Projects
 
 <div align="center">
 
