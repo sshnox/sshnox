@@ -138,6 +138,15 @@ A curated collection of runnable AI agent and RAG applications to explore, custo
 
 </div>
 
+## 🔧 Merged upstream
+
+**Latest merge:** [Preserve full source text for Knowledge Explorer node expansion](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1282) in **Shubhamsaboo/awesome-llm-apps** · 2026-11-06
+
+| Project | ⭐ | Area | What I fixed |
+| --- | ---: | --- | --- |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144k | AI agents · knowledge graphs | [Preserve full source text when expanding graph nodes](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1282) |
+| [wmentor/go-magnetar](https://github.com/wmentor/go-magnetar) | 27 | Go · agent tooling | [List enabled agents when `/agent` is called without arguments](https://github.com/wmentor/go-magnetar/pull/283) |
+
 ## 03 / Current focus
 
 <div align="center">
