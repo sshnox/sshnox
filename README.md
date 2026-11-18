@@ -18,7 +18,7 @@ When I contribute upstream, I like fixes where you can see the difference in one
 
 | Project | ⭐ Stars | What changed |
 | :--- | ---: | :--- |
-| **Actual Budget** | — | [Accepted Quicken QIF `U` amount detail lines without overwriting `T` amounts.](https://github.com/actualbudget/actual/pull/9564) |
+| **Actual Budget** | 30.3k | [Accepted Quicken QIF `U` amount detail lines without overwriting `T` amounts.](https://github.com/actualbudget/actual/pull/9564) |
 | **jc** | 8,703 | [Preserved leading whitespace in filenames parsed from `wc` output.](https://github.com/kellyjonbrazil/jc/pull/902) |
 | **petl** | 1,325 | [Preserved existing rows when appending to a MemorySource.](https://github.com/petl-developers/petl/pull/796) |
 | **Azure RBAC Insight** | 0 | [Kept assignments with missing filter labels visible.](https://github.com/chinmaymjog/azure-rbac-insight/pull/6) |
