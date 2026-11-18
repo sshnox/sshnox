@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Shoaib Shah. Browser tools, data utilities, and open source." />
 
-[**About**](#about) &nbsp;·&nbsp; [**Merged upstream**](#merged-upstream) &nbsp;·&nbsp; [**Projects**](#projects) &nbsp;·&nbsp; [**Toolkit**](#toolkit) &nbsp;·&nbsp; [**Stats**](#github-stats) &nbsp;·&nbsp; [**Contribution activity**](#contribution-activity) &nbsp;·&nbsp; [**Get in touch ↗**](https://linkedin.com/in/sshnox)
+[**About**](#about) &nbsp;·&nbsp; [**Merged upstream**](#merged-upstream) &nbsp;·&nbsp; [**Recent PRs**](#recent-upstream-work) &nbsp;·&nbsp; [**Projects**](#projects) &nbsp;·&nbsp; [**Toolkit**](#toolkit) &nbsp;·&nbsp; [**Stats**](#github-stats) &nbsp;·&nbsp; [**Contribution activity**](#contribution-activity) &nbsp;·&nbsp; [**Get in touch ↗**](https://linkedin.com/in/sshnox)
 
 </div>
 
@@ -14,10 +14,11 @@ When I contribute upstream, I like fixes where you can see the difference in one
 
 ## Merged upstream
 
-**12 merged PRs across 11 projects in the past 12 months.** Each link goes to the upstream PR.
+**13 merged PRs across 12 projects in the past 12 months.** Each link goes to the upstream PR.
 
 | Project | ⭐ Stars | What changed |
 | :--- | ---: | :--- |
+| **Actual Budget** | — | [Accepted Quicken QIF `U` amount detail lines without overwriting `T` amounts.](https://github.com/actualbudget/actual/pull/9564) |
 | **jc** | 8,703 | [Preserved leading whitespace in filenames parsed from `wc` output.](https://github.com/kellyjonbrazil/jc/pull/902) |
 | **petl** | 1,325 | [Preserved existing rows when appending to a MemorySource.](https://github.com/petl-developers/petl/pull/796) |
 | **Azure RBAC Insight** | 0 | [Kept assignments with missing filter labels visible.](https://github.com/chinmaymjog/azure-rbac-insight/pull/6) |
@@ -29,6 +30,21 @@ When I contribute upstream, I like fixes where you can see the difference in one
 | **domq** | 11 | [Validated Markdown options in either flag order.](https://github.com/iamsaquib8/domq/pull/171) |
 | **Releaseproof** | 0 | [Returned the correct exit code for invalid CLI usage.](https://github.com/ujjwalv01/releaseproof/pull/156) |
 | **Go Magnetar** | 29 | [Listed enabled agents when `/agent` is called without arguments.](https://github.com/wmentor/go-magnetar/pull/283) |
+
+## Recent upstream work
+
+Alongside merged fixes, these contributions are awaiting upstream review as of November 18, 2026:
+
+| Project | Contribution |
+| :--- | :--- |
+| **eslint-plugin-markdown-links** | [Recognize named HTML anchors and `#top` fragments.](https://github.com/ota-meshi/eslint-plugin-markdown-links/pull/156) |
+| **petl** | [Validate wheel and source distribution installation in clean environments (draft).](https://github.com/petl-developers/petl/pull/823) |
+| **xonsh** | [Preserve selections that the system clipboard cannot encode.](https://github.com/xonsh/xonsh/pull/6669) |
+| **Sphinx** | [Add machine-readable JavaScript license tags.](https://github.com/sphinx-doc/sphinx/pull/14828) |
+| **javascript-algorithms** | [Cache binary tree heights.](https://github.com/trekhleb/javascript-algorithms/pull/2254) |
+| **TheAlgorithms/Python** | [Replace deprecated NumPy `chararray` usage.](https://github.com/TheAlgorithms/Python/pull/15705) |
+
+[View all open upstream PRs ↗](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3Asshnox+-user%3Asshnox)
 
 ## Projects
 
