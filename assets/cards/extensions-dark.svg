@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436" height="176" viewBox="0 0 436 176" role="img" aria-label="chatmeter and Claude-Usage-Tracker Chrome extensions card">
+  <defs>
+    <style>
+      @keyframes meter { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .m1 { transform-origin: 32px 0px; animation: meter 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="435" height="175" rx="14" fill="#0E1117" stroke="#262C38"/>
+  <rect x="18" y="16" width="46" height="20" rx="5" fill="#16222E" stroke="#2B4865"/>
+  <text x="41" y="29.5" text-anchor="middle" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">EXT</text>
+  <text x="418" y="29.5" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">Manifest V3 · Local ↗</text>
+
+  <text x="18" y="59" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="700">chatmeter &amp; Claude-Usage-Tracker</text>
+  <text x="18" y="79" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Session &amp; weekly AI limit meters — zero API keys or servers.</text>
+
+  <rect x="18" y="96" width="400" height="62" rx="9" fill="#131722" stroke="#222938"/>
+  <text x="32" y="116" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">SESSION QUOTA · LOCAL STORAGE</text>
+  <text x="404" y="116" text-anchor="end" fill="#4ADE80" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">0B CLOUD</text>
+  <rect x="32" y="125" width="372" height="9" rx="4.5" fill="#1E2534"/>
+  <rect class="m1" x="32" y="125" width="268" height="9" rx="4.5" fill="#38BDF8"/>
+  <text x="32" y="149" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">ChatGPT · Claude Session · Weekly · Opus · Privacy-First</text>
+</svg>

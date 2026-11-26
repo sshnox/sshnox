@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="292" viewBox="0 0 900 292" role="img" aria-label="Shoaib Shah — Curious by nature. Builder by choice.">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes pulse { 0%, 100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes scan { 0% { transform: translateX(-240px); opacity: 0; } 20% { opacity: 0.8; } 80% { opacity: 0.8; } 100% { transform: translateX(940px); opacity: 0; } }
+      @keyframes signal { to { stroke-dashoffset: -28; } }
+      .cursor { animation: blink 1.05s step-end infinite; }
+      .dot-live { animation: pulse 2.2s ease-in-out infinite; }
+      .scanline { animation: scan 7s linear infinite; }
+      .edge-a { stroke-dasharray: 5 9; animation: signal 1.8s linear infinite; }
+      .edge-b { stroke-dasharray: 4 10; animation: signal 2.3s linear infinite; }
+    </style>
+    <linearGradient id="bg-l" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCFBF7"/>
+      <stop offset="60%" stop-color="#F8F5EE"/>
+      <stop offset="100%" stop-color="#F2EEE4"/>
+    </linearGradient>
+    <pattern id="dots-l" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.85" fill="#18181B" fill-opacity="0.085"/>
+    </pattern>
+    <linearGradient id="beam-l" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CA8A04" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#CA8A04" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#CA8A04" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="291" rx="18" fill="url(#bg-l)" stroke="#D6D3C9" stroke-width="1"/>
+  <rect x="1" y="1" width="898" height="290" rx="17" fill="url(#dots-l)"/>
+
+  <clipPath id="clip-l"><rect x="1" y="1" width="898" height="3" rx="1.5"/></clipPath>
+  <g clip-path="url(#clip-l)">
+    <rect class="scanline" x="0" y="1" width="240" height="2.5" fill="url(#beam-l)"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+    <rect x="40" y="28" width="142" height="24" rx="12" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <circle class="dot-live" cx="54" cy="40" r="3.5" fill="#16A34A"/>
+    <text x="66" y="44" fill="#18181B" font-weight="600">sshnox@desk</text>
+
+    <text x="196" y="44" fill="#52525B">/about · BS Data Science · Lahore</text>
+
+    <rect x="650" y="28" width="210" height="24" rx="6" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="755" y="44" text-anchor="middle" fill="#52525B" font-size="10.8">⌘K · ~/shipped · rust:2024</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="114" fill="#111113" font-size="44" font-weight="800" letter-spacing="-1.3">Curious by nature.</text>
+    <rect x="40" y="128" width="384" height="50" rx="9" fill="#FEF08A" stroke="#EAB308" stroke-width="0.9"/>
+    <text x="51" y="167" fill="#111113" font-size="44" font-weight="800" letter-spacing="-1.3">Builder by choice.</text>
+  </g>
+
+  <text x="40" y="209" fill="#3F3F46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+    Shoaib Shah — engineering local-first web software, data systems &amp; test-backed OSS fixes.
+  </text>
+
+  <g transform="translate(40, 232)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.8">
+    <rect x="0" y="0" width="576" height="34" rx="8" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="14" y="21" fill="#CA8A04" font-weight="700">$</text>
+    <text x="28" y="21" fill="#18181B">ls ~/stack</text>
+    <text x="110" y="21" fill="#A1A1AA">→</text>
+    <text x="128" y="21" fill="#52525B">TypeScript · Rust · Python · Go · CRDTs · E2EE · OSS</text>
+    <rect class="cursor" x="554" y="10" width="7" height="14" rx="1" fill="#18181B"/>
+  </g>
+
+  <g transform="translate(646, 70)">
+    <rect width="214" height="196" rx="12" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <line x1="0" y1="28" x2="214" y2="28" stroke="#E4E2DA" stroke-width="1"/>
+    <circle cx="14" cy="14" r="3" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="25" cy="14" r="3" fill="#F59E0B" fill-opacity="0.8"/>
+    <circle cx="36" cy="14" r="3" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="200" y="18" text-anchor="end" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">SYS_GRAPH · ∆</text>
+
+    <g stroke="#E4E2DA" stroke-width="1.2">
+      <line x1="36" y1="68" x2="107" y2="58"/>
+      <line x1="36" y1="68" x2="107" y2="108"/>
+      <line x1="36" y1="112" x2="107" y2="58"/>
+      <line x1="36" y1="112" x2="107" y2="108"/>
+      <line x1="36" y1="112" x2="107" y2="156"/>
+      <line x1="36" y1="154" x2="107" y2="108"/>
+      <line x1="36" y1="154" x2="107" y2="156"/>
+      <line x1="107" y1="58" x2="178" y2="86"/>
+      <line x1="107" y1="108" x2="178" y2="86"/>
+      <line x1="107" y1="108" x2="178" y2="134"/>
+      <line x1="107" y1="156" x2="178" y2="134"/>
+    </g>
+
+    <g fill="none" stroke-width="1.6">
+      <path class="edge-a" d="M 36 68 L 107 108 L 178 86" stroke="#CA8A04"/>
+      <path class="edge-b" d="M 36 154 L 107 108 L 178 134" stroke="#0284C7"/>
+      <path class="edge-a" d="M 36 112 L 107 58 L 178 86" stroke="#16A34A" stroke-opacity="0.8"/>
+    </g>
+
+    <circle cx="36" cy="68" r="5" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.6"/>
+    <circle cx="36" cy="112" r="5" fill="#FFFFFF" stroke="#CA8A04" stroke-width="1.6"/>
+    <circle cx="36" cy="154" r="5" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.6"/>
+
+    <circle cx="107" cy="58" r="5.5" fill="#FFFFFF" stroke="#16A34A" stroke-width="1.6"/>
+    <circle class="dot-live" cx="107" cy="108" r="7" fill="#FEF08A" stroke="#CA8A04" stroke-width="1.8"/>
+    <circle cx="107" cy="108" r="2.5" fill="#18181B"/>
+    <circle cx="107" cy="156" r="5.5" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.6"/>
+
+    <circle cx="178" cy="86" r="6" fill="#FFFFFF" stroke="#CA8A04" stroke-width="1.8"/>
+    <circle cx="178" cy="134" r="6" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.8"/>
+
+    <text x="16" y="184" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">INPUT</text>
+    <text x="107" y="184" text-anchor="middle" fill="#CA8A04" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">ATTENTION</text>
+    <text x="198" y="184" text-anchor="end" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">SHIP</text>
+  </g>
+</svg>

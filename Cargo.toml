@@ -1,0 +1,15 @@
+[package]
+name = "sshnox-telemetry"
+version = "0.1.0"
+edition = "2024"
+description = "Rust SVG telemetry & 14-day cadence sparkline generator for @sshnox's GitHub profile"
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["clock"] }
+serde = { version = "1.0", features = ["derive"] }
+ureq = { version = "3.5", features = ["json"] }
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true

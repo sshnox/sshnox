@@ -1,0 +1,43 @@
+# Copy this file to .github/workflows/update-profile.yml to enable daily Rust telemetry updates
+name: Update Profile Telemetry SVGs (Rust)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Rust stable toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache Cargo dependencies
+        uses: Swatinem/rust-cache@v2
+
+      - name: Run unit tests & regenerate telemetry SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: sshnox
+        run: |
+          cargo test --quiet
+          cargo run --release
+
+      - name: Commit updated SVGs if changed
+        run: |
+          if git diff --quiet assets/telemetry-dark.svg assets/telemetry-light.svg; then
+            echo "No telemetry changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/telemetry-dark.svg assets/telemetry-light.svg
+          git commit -m "chore(telemetry): refresh live profile SVGs via Rust"
+          git push

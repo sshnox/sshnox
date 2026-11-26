@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="168" viewBox="0 0 900 168" role="img" aria-label="Upstream open-source contribution pipeline">
+  <defs>
+    <style>
+      @keyframes flow { to { stroke-dashoffset: -24; } }
+      .wire { stroke-dasharray: 6 6; animation: flow 1.6s linear infinite; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="167" rx="14" fill="#FCFBF7" stroke="#D6D3C9"/>
+
+  <text x="26" y="30" fill="#CA8A04" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700">UPSTREAM OSS PIPELINE</text>
+  <text x="874" y="30" text-anchor="end" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">REPRODUCE → PATCH → REGRESSION TEST → UPSTREAM PR</text>
+
+  <line x1="160" y1="88" x2="740" y2="88" stroke="#E4E2DA" stroke-width="2"/>
+  <line class="wire" x1="160" y1="88" x2="740" y2="88" stroke="#CA8A04" stroke-opacity="0.8" stroke-width="2"/>
+
+  <g transform="translate(26, 52)">
+    <rect width="192" height="90" rx="10" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="14" y="24" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">01 · RUNTIME / SSR</text>
+    <text x="14" y="46" fill="#18181B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="700">Amplitude-TypeScript</text>
+    <text x="14" y="64" fill="#52525B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">PR #2208 · DOM SSR guards</text>
+    <text x="14" y="80" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">TypeScript · Jest</text>
+  </g>
+
+  <g transform="translate(244, 52)">
+    <rect width="192" height="90" rx="10" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="14" y="24" fill="#CA8A04" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">02 · UI / HARDWARE</text>
+    <text x="14" y="46" fill="#18181B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="700">betaflight-configurator</text>
+    <text x="14" y="64" fill="#52525B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">PR #5817 · Blackbox toolbar</text>
+    <text x="14" y="80" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">Responsive UI · Regression</text>
+  </g>
+
+  <g transform="translate(462, 52)">
+    <rect width="192" height="90" rx="10" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="14" y="24" fill="#2563EB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">03 · PYTHON / CLI</text>
+    <text x="14" y="46" fill="#18181B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="700">xonsh · sphinx · petl</text>
+    <text x="14" y="64" fill="#52525B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">#6669 · #14828 · #823</text>
+    <text x="14" y="80" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">Pytest · Packaging CI</text>
+  </g>
+
+  <g transform="translate(680, 52)">
+    <rect width="194" height="90" rx="10" fill="#FFFFFF" stroke="#D6D3C9"/>
+    <text x="14" y="24" fill="#15803D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">04 · PARSERS / DATA</text>
+    <text x="14" y="46" fill="#18181B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="700">mapshaper · csv-parser</text>
+    <text x="14" y="64" fill="#52525B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">PR #715 · PR #256</text>
+    <text x="14" y="80" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">CSV · CLI Flags · Node</text>
+  </g>
+</svg>
