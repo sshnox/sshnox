@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://sshnox.vercel.app/">
+  <a href="https://shoaibshah.tech/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <a href="https://sshnox.vercel.app/"><img src="https://img.shields.io/badge/sshnox.vercel.app-111113?style=flat-square&logo=vercel&logoColor=FDE047" alt="Website"></a>
+    <a href="https://shoaibshah.tech/"><img src="https://img.shields.io/badge/shoaibshah.tech-111113?style=flat-square&logo=vercel&logoColor=FDE047" alt="Website"></a>
     <a href="https://www.linkedin.com/in/sshnox/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsshnox-111113?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
     <a href="https://github.com/pulls?q=is%3Apr+author%3Asshnox"><img src="https://img.shields.io/badge/Upstream_PRs-Open_Source-111113?style=flat-square&logo=git&logoColor=4ADE80" alt="Open Source PRs"></a>
     <a href="https://github.com/sshnox?tab=repositories"><img src="https://img.shields.io/badge/Repositories-64_Public-111113?style=flat-square&logo=github&logoColor=FFFFFF" alt="Repositories"></a>
@@ -167,5 +167,5 @@ I'm **Shoaib Shah** (`@sshnox`) — a **BS Data Science student**, tech-focused 
 ---
 
 <p align="center">
-  <sub>∆ · <strong>Curious by nature. Builder by choice.</strong> · <a href="https://sshnox.vercel.app/">sshnox.vercel.app</a></sub>
+  <sub>∆ · <strong>Curious by nature. Builder by choice.</strong> · <a href="https://shoaibshah.tech/">shoaibshah.tech</a></sub>
 </p>
